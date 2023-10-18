@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: myFirmDataPlus-setup-1.0.1.exe
+    sha512: thUTRUwLY1tSrUDz3qE22XjCeSYV7Q6W0v/zpikDT+EqEiKmiLkFoLnGCtiIgwQCUhapHwuyJS63yOrO/hGvaA==
+    size: 74602656
+path: myFirmDataPlus-setup-1.0.1.exe
+sha512: thUTRUwLY1tSrUDz3qE22XjCeSYV7Q6W0v/zpikDT+EqEiKmiLkFoLnGCtiIgwQCUhapHwuyJS63yOrO/hGvaA==
+releaseDate: '2023-10-18T01:32:55.640Z'
